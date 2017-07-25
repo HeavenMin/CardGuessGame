@@ -1,5 +1,4 @@
--- COMP90048 Semester 2,2016 project1
--- Author: Min Gao, 773090
+-- Author: Min Gao
 {-
   I tried several methods to solve this guessing game
   and retained the most efficient method for guessing
