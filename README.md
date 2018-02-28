@@ -1,2 +1,2 @@
 # CardGuessGame
-implement in prolog
+implement in haskell
